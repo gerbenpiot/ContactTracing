@@ -50,6 +50,7 @@ Register
         <p><input type="submit" id="sign" value="Sign Up"></p>
         
     </form>
+    <!-- hell  -->
 </main>
 <footer>
 &copy; Webontwikkeling 3, UC Leuven-Limburg
