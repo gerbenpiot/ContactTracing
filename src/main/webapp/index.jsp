@@ -43,7 +43,7 @@
 						</ul>
 					</div>
 				</c:if>
-<!-- verander-->
+<!-- verande-->
 				<form method="post" action="Controller?command=login" novalidate="novalidate">
 					<p><label for="userid">User id</label><input type="text" id="userid" name="userid"
 																 required > </p>
